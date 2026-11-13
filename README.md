@@ -1,6 +1,6 @@
 # Benjamin Singer
 
-I build AI-native products end to end: the data pipeline, the model calls, the API, and the interface people actually use. Babson grad, TypeScript by default, shipping on Vercel, Railway and Render.
+In my free time, I like using AI to build things.
 
 ## Projects
 
