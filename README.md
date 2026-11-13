@@ -45,13 +45,6 @@ Import a Sleeper, ESPN or Yahoo league for Claude-powered trade grades, start/si
 </td>
 <td width="50%" valign="top">
 
-### How I work
-
-- Measure before deciding: Gemini moved from every-scan to rescue-only in Clothing Scanner after live timing, not a hunch.
-- Make the math inspectable: every Filing Analyzer ratio shows its formula with the real inputs substituted.
-- Treat paid APIs as a budget: rate limits, usage caps and quota dashboards ship with the feature.
-- Tests and CI on every push, in every repo.
-
 </td>
 </tr>
 </table>
