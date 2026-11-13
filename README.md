@@ -10,7 +10,7 @@ In my free time, I like using AI to build things. I have tried lots of different
 
 ### [Filing Analyzer](https://github.com/benjaminsinger18-arch/filing-analyzer)
 
-Drop in any SEC 10-K or 10-Q and get every key ratio, a Piotroski / Altman health check and a transparent 0-100 rating, with the formula and source behind every number.
+Helps me quickly cut through the noise and understand how a public company is faring.
 
 `Next.js 16` `TypeScript` `Recharts` `KaTeX` `65 tests`
 
@@ -21,7 +21,7 @@ Drop in any SEC 10-K or 10-Q and get every key ratio, a Piotroski / Altman healt
 
 ### [Clothing Scanner](https://github.com/benjaminsinger18-arch/clothing-scanner)
 
-Photograph any garment and get what it is, what it costs new and resale, what to wear it with, and a closet that tracks cost-per-wear. Claude, Google Vision and Gemini behind one Express API; Expo on iOS, Android and the web.
+Photograph any garment and get what it is, what it costs new and resale, what to wear it with, and a closet that tracks cost-per-wear. Needs a model API key though.
 
 `Expo 54` `React Native` `Express` `Claude` `81-image eval set`
 
@@ -36,7 +36,7 @@ Photograph any garment and get what it is, what it costs new and resale, what to
 
 ### [FantasyRater](https://github.com/benjaminsinger18-arch/fantasy-rater)
 
-Import a Sleeper, ESPN or Yahoo league for Claude-powered trade grades, start/sit calls, waiver targets, a draft assistant and a 500-run Monte Carlo playoff predictor, streamed live over SSE. NFL, MLB, FPL and IPL.
+My favorite project. Could not find enough good free info on fantasy for non-football fanatics in casual leagues (like me). Kept getting scammed by my friends with no life. Made this tool and now holding my own because of it.
 
 `React 18` `Vite` `Express` `Claude` `Turso` `Stripe` `Expo`
 
