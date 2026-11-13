@@ -1,6 +1,6 @@
 # Benjamin Singer
 
-In my free time, I like using AI to build things.
+In my free time, I like using AI to build things. I have tried lots of different models, and settled on Claude. I like its easily editable plan format and focus on asking for permission before it does something crazy.
 
 ## Projects
 
